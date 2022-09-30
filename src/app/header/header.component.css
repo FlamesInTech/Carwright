@@ -1,0 +1,18 @@
+.main{
+    font-family: 'Inter';
+    /* background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%,rgba(0, 0, 0, 0.5)50%); */
+    background-color: #2c3c5356;
+    /* position: fixed; */
+}
+/* .bro{
+    display: flex;
+    align-items: center;
+    color: green;
+    justify-content: center;
+} */
+.collapse li{
+    padding-left: 40px;
+}
+a{
+    color: white;
+}
